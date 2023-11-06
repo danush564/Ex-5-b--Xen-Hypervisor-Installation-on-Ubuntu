@@ -15,6 +15,7 @@ Open terminal and install xen hypervisor
 sudo apt-get install xen-hypervisor-amd64
 
 (Installing 64-bit hypervisor runs on 32 bit dom0 and also creates 64 bit domU) Then reboot (you don’t have to update grub)
+
 sudo reboot
 
 #### Step 3:
